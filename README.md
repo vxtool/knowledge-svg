@@ -1,4 +1,5 @@
 # Experiments with SVG
 
-- [Basic Elements](01-basic-elements/index.html)
+- [Container Elements](01-container-elements/README.md)
+- [Basic Elements](02-basic-elements/README.md)
 - [Links](Links.md)
